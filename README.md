@@ -56,7 +56,8 @@ Para ejecutar este flow, es necesario lo siguiente
 ## Resultados
 
 A continuación puedes ver los nodos del flow.
-![](https://github.com/hugoescalpelo/flow4-NodeRed-MQTT/blob/main/Nodos.png?raw=true)
+![](https://github.com/Yurikolugo/flow4-NodeRed-MQTT/blob/main/flow4_Datos.png)
+![](https://github.com/Yurikolugo/flow4-NodeRed-MQTT/blob/main/Flow_Nodos.png)
 
 A continuación puede ver el tablero resultante.
 
